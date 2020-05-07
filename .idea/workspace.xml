@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f823e88-4238-4f41-8950-09e20495be9f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1asPzxIyR9tazlV6jpTcmv4F2sO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/Utils" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/features" />
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$/src/test/java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/Utils" />
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Runner">
+    <configuration name="Scenario: Create a customer using json file" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/createCustomer.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="RestAssuredFramework" />
+      <option name="NAME_FILTER" value="^Create a customer using json file$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Create a customer using json file$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Create a customer using json file" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stepsdef.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Stepsdef" />
+      <option name="MAIN_CLASS_NAME" value="Stepsdef.Runner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="createCustomer_scenario001_run001_IT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredFramework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="createCustomer_scenario001_run001_IT" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateCustomerTest" type="TestNG" nameIsGenerated="true">
+      <module name="RestAssuredFramework" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="TestCases" />
+      <option name="MAIN_CLASS_NAME" value="TestCases.CreateCustomerTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/mgundalaA/Documents/RestAssuredFramework/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredFramework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;default&gt;" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredFramework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Runner" />
+        <item itemvalue="JUnit.createCustomer_scenario001_run001_IT" />
+        <item itemvalue="TestNG./Users/mgundalaA/Documents/RestAssuredFramework/testng.xml" />
+        <item itemvalue="TestNG.&lt;default&gt;" />
+        <item itemvalue="Cucumber java.Scenario: Create a customer using json file" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f823e88-4238-4f41-8950-09e20495be9f" name="Default Changelist" comment="" />
+      <created>1587521593136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587521593136</updated>
+      <workItem from="1587521597067" duration="11252000" />
+      <workItem from="1587774754146" duration="19383000" />
+      <workItem from="1588816542347" duration="1436000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="508" y="166" key="#&lt;default&gt;_(1)" timestamp="1587951804244">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="508" y="166" key="#&lt;default&gt;_(1)/0.0.1680.1050@0.0.1680.1050" timestamp="1587951804244" />
+    <state x="508" y="179" key="#CreateCustomerTest" timestamp="1587951599804">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="508" y="179" key="#CreateCustomerTest/0.0.1680.1050@0.0.1680.1050" timestamp="1587951599804" />
+    <state x="440" y="190" width="811" height="669" key="#Project_Structure" timestamp="1588555923632">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="190" width="811" height="669" key="#Project_Structure/0.0.1680.1050@0.0.1680.1050" timestamp="1588555923632" />
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588643553073">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1588643553073" />
+    <state x="606" y="391" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587777607731">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="606" y="391" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1680.1050@0.0.1680.1050" timestamp="1587777607731" />
+    <state x="525" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1588816729739">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="525" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1588816729739" />
+    <state width="1638" height="324" key="GridCell.Tab.0.bottom" timestamp="1588732653583">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="324" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1588732653583" />
+    <state width="1638" height="324" key="GridCell.Tab.0.center" timestamp="1588732653581">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="324" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1588732653581" />
+    <state width="1638" height="324" key="GridCell.Tab.0.left" timestamp="1588732653580">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="324" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1588732653580" />
+    <state width="1638" height="324" key="GridCell.Tab.0.right" timestamp="1588732653582">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="324" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1588732653582" />
+    <state x="341" y="164" key="SettingsEditor" timestamp="1588556189668">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1588556189668" />
+    <state x="623" y="310" key="chooseDestDirectoryDialog" timestamp="1588642963086">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="623" y="310" key="chooseDestDirectoryDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1588642963086" />
+    <state x="217" y="229" key="new project wizard" timestamp="1587521849791">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="217" y="229" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1587521849791" />
+  </component>
+</project>

@@ -1,0 +1,12 @@
+import cucumber.api.CucumberOptions;
+
+@CucumberOptions(
+		monochrome = true,
+		features = {"target/cucumber/features/[CUCABLE:FEATURE].feature"},
+		plugin = {"json:target/cucumber-report/[CUCABLE:RUNNER].json"},
+		glue = {"stepDefinitions"}
+		)
+)
+public class [CUCABLE:RUNNER] {
+    [CUCABLE:CUSTOM:RestAssuredFramework]
+}
